@@ -1,8 +1,6 @@
 fun main() {
 
-    println(
-        "Digite um numero inteiro: "
-    )
+    println("Digite um numero inteiro: ")
     var numero1 = readln().toInt()
 
     println("Digite segundo numero inteiro: ")

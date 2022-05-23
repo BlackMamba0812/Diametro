@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d910461d-5a59-46f9-b4c1-734b4245f49e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../main/kotlin/Exercicio1trêsInteiros.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../main/kotlin/Exercicio1trêsInteiros.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main/kotlin/out/production/kotlin/Exercicio1trêsInteirosKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../main/kotlin/out/production/kotlin/Exercicio1trêsInteirosKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main/kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../main/kotlin/out/production/kotlin/META-INF/kotlin.kotlin_module" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="29WxjU84k5JEZE58zwBoWJ9clV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/usuario/Desktop/Diametro/ProjectHelloWorld/src/test/kotlin"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d910461d-5a59-46f9-b4c1-734b4245f49e" name="Changes" comment="" />
+      <created>1653242777968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653242777968</updated>
+    </task>
+    <servers />
+  </component>
+</project>
